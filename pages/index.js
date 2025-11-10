@@ -72,12 +72,13 @@ export default function Home() {
           <button id="toggleTheme" className="mt-6 text-blue-600 underline">
             Switch to Dark Theme
           </button>
-          <h1>Made with HTML, CSS (Tailwind) & JavaScript (Next.js), hosted on Vercel. Used ChatGPT for installing packages </h1>
+          <h1>Made with HTML, CSS & JS (Next.js), hosted on Vercel. Used ChatGPT for installing packages </h1>
+          <h1>By the way the cat in the picture is not me nor my actual cat, I catsitted him & I just really like him</h1>
         </div>
 
         {/* Right Sidebar */}
         <div className="flex flex-col items-center text-center space-y-4">
-          <Image src="/pfp.jpg" width={128} height={128} className="rounded-full" alt="Your profile picture" />
+          <Image src="/totoro.jpg" width={128} height={128} className="rounded-full" alt="Your profile picture" />
           <h2 className="text-xl font-bold">Patrick Kwon</h2>
           <div className="text-blue-600 space-y-1">
             <a href="https://www.linkedin.com/in/patrick-kwon-/" className="block hover:underline">LinkedIn</a>
