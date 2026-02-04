@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "daisyui": "^5.0.43",
-    "next": "latest",
+    "next": "15.5.8",
     "react": "latest",
     "react-dom": "latest"
   },
