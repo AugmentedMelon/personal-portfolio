@@ -32,11 +32,11 @@ export default function Home() {
         <div className="md:col-span-2 space-y-6">
           <h1 className="text-3xl font-bold">What's up guys!</h1>
           <p>
-            I'm an incoming SWE at BlackRock, currently interning at FHL Vive Center for Enhanced Reality.
-            I'm also a machine learning researcher at Lawrence Berkeley National Lab (LBNL)!
-            I previously worked at Dorsal.fyi (Summer 2025) & Geopogo (Winter-Summer 2025) working on full-stack development & software engineering.
+            I'm an incoming SWE at BlackRock, currently at Lawrence Berkeley National Lab (LBNL) as a Machine Learning Research & GPU Engineer!
+            I previously worked at FHL Vive Center for Enhanced Reality (Fall 2025), Dorsal.fyi (Summer 2025) & Geopogo (Winter-Summer 2025) 
+            working on full-stack development & software engineering.
             I am studying Data Science, Computer Science & Cognitive Science at UC Berkeley.
-            On campus, I am in NeuroTech, was an orientation leader (2024) & am a Blue RA (2025). 
+            On campus, I am in NeuroTech, was an GBO (orientation) leader (2024) & am currently a Blue RA (2025). 
             Based in San Jose, CA.
           </p>
 
