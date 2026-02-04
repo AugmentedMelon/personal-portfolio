@@ -47,10 +47,10 @@ export default function Home() {
               Incoming at <a href="https://www.blackrock.com/us/financial-professionals/investments/products/managed-accounts" className="text-blue-600 hover:underline">BlackRock (Summer 2026)</a>
             </li>
             <li>
-              Interning at <a href="https://tai.berkeley.edu/" className="text-blue-600 hover:underline">FHL Vive Center for Enhanced Reality (TAI)</a>
+              Researching at <a href="https://qiangrouppage.lbl.gov/people" className="text-blue-600 hover:underline">Lawrence Berkeley National Laboratory</a>
             </li>
             <li>
-              Researching at <a href="https://qiangrouppage.lbl.gov/people" className="text-blue-600 hover:underline">Lawrence Berkeley National Laboratory</a>
+              Interned at <a href="https://tai.berkeley.edu/" className="text-blue-600 hover:underline">FHL Vive Center for Enhanced Reality (TAI)</a>
             </li>
             <li>
               Interned at <a href="https://www.dorsal.fyi/" className="text-blue-600 hover:underline">Dorsal.fyi</a>
