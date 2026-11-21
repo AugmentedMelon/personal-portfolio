@@ -64,20 +64,24 @@ export default function Home() {
               Interned at <a href="https://geopogo.com" className="text-blue-600 hover:underline">Geopogo</a>
             </li>
             <li>
-              Software Dev @ <a href="https://neurotech.studentorg.berkeley.edu/" className="text-blue-600 hover:underline">Neurotech @Berkeley</a>
+              Machine Learning Engineer @ <a href="https://neurotech.studentorg.berkeley.edu/" className="text-blue-600 hover:underline">Neurotech @Berkeley</a>
             </li>
           </ul>
           <h2 className="text-xl font-semibold">Projects I've worked on (more to come)</h2>
           <ul className="list-disc list-inside space-y-1">
             <li>
+              Flash Attention in CUDA C++: <a href="https://github.com/AugmentedMelon/flash_attention_cuda" className="text-blue-600 hover:underline">Link Here</a>
+            </li>
+              <li>
               DIY Dining: <a href="https://github.com/tinmly/CS198-Project-3/blob/main/README.md" className="text-blue-600 hover:underline">Link Here</a>
             </li>
+
           </ul>
 
           <button id="toggleTheme" className="mt-6 text-blue-600 underline">
             Switch to Dark Theme
           </button>
-          <h1>Made with HTML, CSS & JS (Next.js), hosted on Vercel. Used ChatGPT for installing packages </h1>
+          <h1>Made with HTML, CSS & JS (Next.js), hosted on Vercel. Used ChatGPT for installing packages because that's the worst part of coding </h1>
           <h1>By the way the cat in the picture is not me nor my actual cat, I catsitted him & I just really like him</h1>
         </div>
 
