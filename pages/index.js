@@ -46,22 +46,22 @@ export default function Home() {
           <h2 className="text-xl font-semibold">You might know me from...</h2>
           <ul className="list-disc list-inside space-y-1">
             <li>
-              Incoming at <a href="https://www.nvidia.com/en-us/about-nvidia/#About%20Us" className="text-blue-600 hover:underline">NVIDIA </a>
+              Incoming Systems Software Engineer @ <a href="https://www.nvidia.com/en-us/about-nvidia/#About%20Us" className="text-blue-600 hover:underline">NVIDIA </a>
             </li>
             <li>
-              Interned at <a href="https://www.blackrock.com/us/financial-professionals/investments/products/managed-accounts" className="text-blue-600 hover:underline">BlackRock (Summer 2026)</a>
+              Researching @ <a href="https://qiangrouppage.lbl.gov/people" className="text-blue-600 hover:underline">Lawrence Berkeley National Laboratory</a>
             </li>
             <li>
-              Researching at <a href="https://qiangrouppage.lbl.gov/people" className="text-blue-600 hover:underline">Lawrence Berkeley National Laboratory</a>
+              Software Engineer Intern @ <a href="https://www.blackrock.com/us/financial-professionals/investments/products/managed-accounts" className="text-blue-600 hover:underline">BlackRock (Summer 2026)</a>
             </li>
             <li>
-              Interned at <a href="https://tai.berkeley.edu/" className="text-blue-600 hover:underline">FHL Vive Center for Enhanced Reality (TAI)</a>
+              Founding Software Engineer <a href="https://www.dorsal.fyi/" className="text-blue-600 hover:underline">Dorsal.fyi (acquired by Promise) </a>
             </li>
             <li>
-              Interned at <a href="https://www.dorsal.fyi/" className="text-blue-600 hover:underline">Dorsal.fyi</a>
+              Software Engineer Intern @ <a href="https://tai.berkeley.edu/" className="text-blue-600 hover:underline">FHL Vive Center for Enhanced Reality </a>
             </li>
             <li>
-              Interned at <a href="https://geopogo.com" className="text-blue-600 hover:underline">Geopogo</a>
+              Software Engineer Intern @ <a href="https://geopogo.com" className="text-blue-600 hover:underline">Geopogo </a>
             </li>
             <li>
               Machine Learning Engineer @ <a href="https://neurotech.studentorg.berkeley.edu/" className="text-blue-600 hover:underline">Neurotech @Berkeley</a>
