@@ -34,8 +34,8 @@ export default function Home() {
           <p>
             I'm an incoming Researcher @ NVIDIA where I'll be using GPU engineering & machine learning for semiconductor & chip development. 
             I am currently at Lawrence Berkeley National Lab (LBNL) as a Machine Learning Research & GPU Engineer!
-            I was also a software engineer intern @ BlackRock (Summer 2026) 
-            I previously worked at FHL Vive Center for Enhanced Reality (Fall 2025), Dorsal.fyi (Summer 2025) & Geopogo (Winter-Summer 2025) 
+            I was also a software engineer intern @ BlackRock (Summer 2026) & a founding software engineer @ Dorsal.fyi (acquired by Promise)
+            I previously worked at FHL Vive Center for Enhanced Reality (Fall 2025) & Geopogo (Winter-Summer 2025) 
             working on full-stack development & software engineering.
             I graduated from UC Berkeley as a Data Science, Computer Science & Cognitive Science major.
             On campus, I am in NeuroTech, was an GBO (orientation) leader (2024) & an RA (2025). 
