@@ -32,11 +32,13 @@ export default function Home() {
         <div className="md:col-span-2 space-y-6">
           <h1 className="text-3xl font-bold">What's up guys!</h1>
           <p>
-            I'm an incoming SWE at BlackRock, currently at Lawrence Berkeley National Lab (LBNL) as a Machine Learning Research & GPU Engineer!
+            I'm an incoming Researcher @ NVIDIA where I'll be using GPU engineering & machine learning for semiconductor & chip development. 
+            I am currently at Lawrence Berkeley National Lab (LBNL) as a Machine Learning Research & GPU Engineer!
+            I was also a software engineer intern @ BlackRock (Summer 2026) 
             I previously worked at FHL Vive Center for Enhanced Reality (Fall 2025), Dorsal.fyi (Summer 2025) & Geopogo (Winter-Summer 2025) 
             working on full-stack development & software engineering.
-            I am studying Data Science, Computer Science & Cognitive Science at UC Berkeley.
-            On campus, I am in NeuroTech, was an GBO (orientation) leader (2024) & am currently a Blue RA (2025). 
+            I graduated from UC Berkeley as a Data Science, Computer Science & Cognitive Science major.
+            On campus, I am in NeuroTech, was an GBO (orientation) leader (2024) & an RA (2025). 
             Based in San Jose, CA.
           </p>
 
@@ -44,7 +46,10 @@ export default function Home() {
           <h2 className="text-xl font-semibold">You might know me from...</h2>
           <ul className="list-disc list-inside space-y-1">
             <li>
-              Incoming at <a href="https://www.blackrock.com/us/financial-professionals/investments/products/managed-accounts" className="text-blue-600 hover:underline">BlackRock (Summer 2026)</a>
+              Incoming at <a href="https://www.nvidia.com/en-us/about-nvidia/#About%20Us" className="text-blue-600 hover:underline">NVIDIA </a>
+            </li>
+            <li>
+              Interned at <a href="https://www.blackrock.com/us/financial-professionals/investments/products/managed-accounts" className="text-blue-600 hover:underline">BlackRock (Summer 2026)</a>
             </li>
             <li>
               Researching at <a href="https://qiangrouppage.lbl.gov/people" className="text-blue-600 hover:underline">Lawrence Berkeley National Laboratory</a>
