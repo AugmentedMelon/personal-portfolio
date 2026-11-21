@@ -82,7 +82,7 @@ export default function Home() {
             Switch to Dark Theme
           </button>
           <h1>Made with HTML, CSS & JS (Next.js), hosted on Vercel. Used ChatGPT for installing packages because that's the worst part of coding </h1>
-          <h1>By the way the cat in the picture is not me nor my actual cat, I catsitted him & I just really like him</h1>
+          <h1>By the way the cat in the picture is not me nor my actual cat, I catsitted him & his name is Lotto</h1>
         </div>
 
         {/* Right Sidebar */}
